@@ -1,3 +1,5 @@
+# Random Bag System
+
 import random
 pieces = ['O','I','S','Z','L','J','T']
 print pieces
