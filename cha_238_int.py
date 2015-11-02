@@ -24,12 +24,6 @@ def calculate_overlap(guess,correct):
 	return n_correct
 
 #def play_game():
-
-
-
-
-
-
 if __name__ == '__main__':
 	import random
 
